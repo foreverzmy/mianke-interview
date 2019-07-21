@@ -9,3 +9,4 @@
 - [018、call 和 apply](./questions/018.md)
 - [019、函数柯里化](./questions/019.md)
 - [022、var、let 和 const](./questions/022.md)
+- [024、ES5 实现继承](./questions/024.md)

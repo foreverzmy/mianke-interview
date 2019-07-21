@@ -38,5 +38,6 @@
 - [021、分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](./questions/021.md)
 - [022、var、let 和 const](./questions/022.md)
 - [023、版本号排序](./questions/023.md)
+- [024、ES5 实现继承](./questions/024.md)
 - [055、redux middleware](./questions/055.md)
 - [056、React OutsideClick 的 HOC 和 Customer Hooks](./questions/056.md)
