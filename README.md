@@ -9,7 +9,7 @@
 - [HTTP](./HTTP.md)
 - [JavaScript](./JavaScript.md)
 - [TypeScript](./TypeScript.md)
-- [React][./React.md]
+- [React](./React.md)
 - [算法与代码](./Coder.md)
 - [非技术题](./Other.md)
 
